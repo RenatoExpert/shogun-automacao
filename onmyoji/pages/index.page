@@ -1,0 +1,4 @@
+<onmyoji-page template='home'>
+	<page-cut key='main-content'>
+	</page-cut>	
+</onmyoji-page>
